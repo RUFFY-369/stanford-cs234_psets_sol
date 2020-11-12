@@ -7,7 +7,7 @@ Many of the solutions are both as python scripts and jupyter notebooks.
 
 The videos of the final result of assignment 2 & 3 for some environments are included in  **'assignment(number)/sol_assignment(number)/results'**.
 
-### Here is one of the highlghts from the results of different coding problem: 
+### Here is one of the highlghts from the results of different coding problems: 
 #### Implementation of 'Deepmind's DQN' on 'Atari'
 
 ##### Breakoutv0
