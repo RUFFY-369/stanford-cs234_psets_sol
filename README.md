@@ -1,5 +1,5 @@
 # Stanford-CS234:Reinforcement Learning
-This repo consists of my solutions of Stanford's CS234 (Winter 2019) problem sets.
+This repo consists of my solutions to coding problems of Stanford's CS234 (Winter 2019) problem sets.
 
 http://web.stanford.edu/class/cs234/CS234Win2019/index.html
 
